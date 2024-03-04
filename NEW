@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Annia’s Resume</title>
     
-    <!-- Internal Styles (Advanced) -->
+    <!-- Internal Styles (Advanced with Colors) -->
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -20,7 +20,7 @@
         }
 
         header {
-            background-color: #292b2c; /* Dark Grey */
+            background-color: #990099; /* Purple */
             color: #ffffff; /* White */
             text-align: center;
             padding: 20px;
@@ -28,7 +28,7 @@
         }
 
         nav {
-            background-color: #343a40; /* Darker Grey */
+            background-color: #cc00cc; /* Pink */
             color: #ffffff; /* White */
             padding: 10px;
             width: 100%;
@@ -60,19 +60,19 @@
         }
 
         table {
-            border: 2px solid #343a40; /* Darker Grey */
+            border: 2px solid #cc00cc; /* Pink */
             width: 100%;
             border-collapse: collapse;
         }
 
         th, td {
-            border: 2px solid #343a40; /* Darker Grey */
+            border: 2px solid #cc00cc; /* Pink */
             padding: 10px;
             text-align: left;
         }
 
         a {
-            color: #007bff; /* Blue */
+            color: #990099; /* Purple */
             text-decoration: none;
             font-weight: bold;
         }
@@ -86,7 +86,7 @@
         }
 
         dl a {
-            color: #007bff; /* Blue */
+            color: #990099; /* Purple */
             text-decoration: none;
         }
 
